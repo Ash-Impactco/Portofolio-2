@@ -55,6 +55,13 @@ git push origin main
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>CRM Campaign – Cleantech Growthlab</title>
   <link rel="stylesheet" href="style.css" /> <!-- Link to your existing CSS -->
+  <a href="crm-cleantech-campaign.html" target="_blank">
+  <div class="project-card">
+    <h3>CRM Campaign – Cleantech Growthlab</h3>
+    <p>Lifecycle email + lead scoring strategy for a cleantech B2B startup.</p>
+  </div>
+</a>
+
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
