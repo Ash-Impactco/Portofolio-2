@@ -63,6 +63,7 @@
                 <li>Sustained 44% average open rate on nurture emails.</li>
                 <li>Developed digital strategy and content for social campaigns, boosting engagement by 30%.</li>
               </ul>
+              <a href="#crm-cleantech" class="text-blue-600 underline mt-2 block">View CRM Campaign Details</a>
             </div>
           </li>
           <li>
@@ -79,9 +80,10 @@
             <div id="exp3" class="hidden mt-2 ml-4">
               <ul class="list-disc pl-6">
                 <li>Led international sales of chromatography equipment worth $35k+</li>
-                <li>Onboarded 50+ clients via RFPs and cold outreach (80% sales quota).</li>
+                <li>Onboarded 50+ clients via RFPs and cold outreach (80% quota).</li>
                 <li>Boosted lead conversion by 13% with Salesforce CRM.</li>
               </ul>
+              <a href="#crm-chromo" class="text-blue-600 underline mt-2 block">View CRM Campaign Details</a>
             </div>
           </li>
           <li>
@@ -90,7 +92,7 @@
               <ul class="list-disc pl-6">
                 <li>Assembled DPRs for sustainability, energy efficiency, and GHG management projects.</li>
                 <li>Executed water treatment solutions for housing & corporate projects.</li>
-                <li>Implemented rainwater harvesting and automated wastewater treatment plans.</li>
+                <li>Implemented rainwater harvesting and wastewater treatment plans.</li>
               </ul>
             </div>
           </li>
@@ -98,8 +100,8 @@
             <button onclick="toggle('exp5')" class="w-full text-left px-4 py-2 rounded bg-green-500 text-white hover:bg-green-600 transition">Project Assistant – UNICEF WASH (Jul 2018 – Jun 2019)</button>
             <div id="exp5" class="hidden mt-2 ml-4">
               <ul class="list-disc pl-6">
-                <li>Streamlined water testing (63 parameters) and installed solar stoves for 10k+ residents.</li>
-                <li>Coordinated with government officials on solar stove and water pump projects.</li>
+                <li>Streamlined water testing and installed solar stoves for 10k+ residents.</li>
+                <li>Coordinated with government on solar stove & water pump projects.</li>
                 <li>Modernized honeycomb toilet designs across 16 tea estates.</li>
               </ul>
             </div>
@@ -115,17 +117,55 @@
         <div class="space-y-8">
           <div class="bg-green-50 p-6 rounded-xl">
             <h3 class="text-xl font-semibold">Upcoming Geothermal Heat Grid Case Study – Leeuwarden, NL (Feb 2022 – Apr 2022)</h3>
-            <p class="mt-2">Collected data by interviewing 100 respondents on social concerns for geothermal integration. Processed qualitative insights with the DESSIN-ESS framework. Findings published by Omrop: <a href="https://www.omropfryslan.nl/nl/nieuws/1144457/internationale-studenten-duurzame-aanpak-in-fryslan-is-mogelijk" class="underline text-blue-600" target="_blank">View Article</a>.</p>
+            <p class="mt-2">Collected qualitative data from 100 respondents on geothermal integration using DESSIN-ESS. Findings published by <a href="https://www.omropfryslan.nl/nl/nieuws/1144457/internationale-studenten-duurzame-aanpak-in-fryslan-is-mogelijk" class="underline text-blue-600" target="_blank">Omrop</a>.</p>
           </div>
           <div class="bg-green-50 p-6 rounded-xl">
             <h3 class="text-xl font-semibold">Coral Bleaching Status – Andaman Islands, India (Dec 2017 – Feb 2018)</h3>
-            <p class="mt-2">Identified a 1°C SST increase above monthly maxima causing zooxanthellae symbiosis degradation. Assessed thermal stress via CBAS with satellite-derived SST. Studied Acropora degradation rates, presenting to ANET, the Indian Wildlife Department, and Indian Coast Guard.</p>
+            <p class="mt-2">Identified 1°C SST increase causing symbiosis degradation. Assessed thermal stress via CBAS. Presented findings to ANET, Indian Wildlife Dept. & Coast Guard.</p>
           </div>
           <div class="bg-green-50 p-6 rounded-xl">
             <h3 class="text-xl font-semibold">Municipal Solid Waste Management – Erode, India (Sep 2016 – Nov 2016)</h3>
-            <p class="mt-2">Monitored 10k kWh/day electricity from gasification of 135 metric tonnes of waste. Assisted waste segregation into 6 categories including E-waste and hazardous waste.</p>
+            <p class="mt-2">Monitored 10k kWh/day electricity from 135 tonnes waste gasification. Segregated waste into 6 categories including hazardous and E-waste.</p>
           </div>
         </div>
+      </div>
+    </section>
+
+    <!-- CRM Campaign Details -->
+    <section id="crm-cleantech" class="py-16 px-4 bg-green-50 text-gray-800">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-3xl font-bold mb-4">CRM Campaign – Cleantech GrowthLab</h2>
+        <p>Developed a multi-stage nurture campaign to convert clean tech leads:</p>
+        <ul class="list-disc pl-6 mt-2">
+          <li>Segments: SMEs, corporate sustainability teams, investors.</li>
+          <li>Workflow: Welcome email → educational series → case study highlight → demo invite.</li>
+          <li>Tools: HubSpot workflows, behavior scoring, dynamic content.</li>
+          <li>Results: 10× SQL growth, 44% open rate, 8% demo-to-contract conversion.</li>
+        </ul>
+      </div>
+    </section>
+    <section id="crm-igaming" class="py-16 px-4 bg-yellow-50 text-gray-800">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-3xl font-bold mb-4">CRM Campaign – iGaming Platforms</h2>
+        <p>Reactivation and retention strategy across multiple markets:</p>
+        <ul class="list-disc pl-6 mt-2">
+          <li>Audience: Dormant players, VIP segments, new registrants.</li>
+          <li>Channels: Email, in-app notifications, SMS.</li>
+          <li>Sequence: Re-engagement drip → VIP loyalty boost → exclusive offers.</li>
+          <li>Outcomes: +20% LTV, 25% reactivation rate of dormant users.</li>
+        </ul>
+      </div>
+    </section>
+    <section id="crm-chromo" class="py-16 px-4 bg-blue-50 text-gray-800">
+      <div class="max-w-4xl mx-auto">
+        <h2 class="text-3xl font-bold mb-4">CRM Campaign – National Chromatography Inco</h2>
+        <p>Targeted outreach for chromatography equipment adoption:</p>
+        <ul class="list-disc pl-6 mt-2">
+          <li>Prospecting: Pharma R&D, QC labs, universities.</li>
+          <li>Email series: Product intro → ROI-focused case studies → personalized demos.</li>
+          <li>Automation: Salesforce Pardot, lead scoring, triggered follow-ups.</li>
+          <li>Impact: 13% lead-to-opportunity conversion, \$35k in closed deals.</li>
+        </ul>
       </div>
     </section>
 
