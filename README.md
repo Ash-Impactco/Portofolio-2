@@ -42,6 +42,12 @@ crm-cleantech-campaign.html
 git add .
 git commit -m "Added CRM Campaign project"
 git push origin main
+
+  <div class="container">
+    <h1>CRM Campaign: Cleantech Growthlab</h1>
+    <p><strong>Role:</strong> Freelance Marketing Strategist<br>
+       <strong>Tools:</strong> HubSpot, Salesforce, Canva, Zapier<br>
+       <strong>Objective:</strong> Automate lead engagement & increase SQLs</p>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -93,12 +99,6 @@ git push origin main
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>CRM Campaign: Cleantech Growthlab</h1>
-    <p><strong>Role:</strong> Freelance Marketing Strategist<br>
-       <strong>Tools:</strong> HubSpot, Salesforce, Canva, Zapier<br>
-       <strong>Objective:</strong> Automate lead engagement & increase SQLs</p>
-
     <h2>🔍 Overview</h2>
     <p>
       I created a full-funnel CRM campaign for Cleantech Growthlab, aimed at converting website visitors and Growth Pod signups into Sales Qualified Leads (SQLs). This included workflow automation, lead scoring, and integrated email nurturing sequences.
