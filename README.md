@@ -42,6 +42,121 @@ crm-cleantech-campaign.html
 git add .
 git commit -m "Added CRM Campaign project"
 git push origin main
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CRM Campaign – Cleantech Growthlab</title>
+  <link rel="stylesheet" href="style.css" /> <!-- Link to your existing CSS -->
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      padding: 2rem;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+    h1 {
+      color: #1e3a8a;
+    }
+    h2 {
+      margin-top: 1.5rem;
+    }
+    a {
+      color: #2563eb;
+    }
+    .btn {
+      display: inline-block;
+      padding: 0.5rem 1rem;
+      background: #1e3a8a;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+      margin-top: 1rem;
+    }
+    .email-sample {
+      background-color: #f0f4ff;
+      border-left: 4px solid #2563eb;
+      padding: 1rem;
+      margin-top: 1rem;
+      font-family: 'Courier New', monospace;
+      white-space: pre-wrap;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>CRM Campaign: Cleantech Growthlab</h1>
+    <p><strong>Role:</strong> Freelance Marketing Strategist<br>
+       <strong>Tools:</strong> HubSpot, Salesforce, Canva, Zapier<br>
+       <strong>Objective:</strong> Automate lead engagement & increase SQLs</p>
+
+    <h2>🔍 Overview</h2>
+    <p>
+      I created a full-funnel CRM campaign for Cleantech Growthlab, aimed at converting website visitors and Growth Pod signups into Sales Qualified Leads (SQLs). This included workflow automation, lead scoring, and integrated email nurturing sequences.
+    </p>
+
+    <h2>📊 Goals</h2>
+    <ul>
+      <li>Increase SQLs through automation and segmentation</li>
+      <li>Reduce CAC by improving email nurture quality</li>
+      <li>Unify lead data across HubSpot and Salesforce</li>
+    </ul>
+
+    <h2>📬 CRM Workflow Breakdown</h2>
+    <ul>
+      <li><strong>Welcome Sequence:</strong> Thank-you email + Growth Pod intro</li>
+      <li><strong>Value Series:</strong> Case studies, playbook invites</li>
+      <li><strong>Behavior Triggers:</strong> Retarget based on page visits & downloads</li>
+      <li><strong>Lead Scoring:</strong> Based on engagement level & funnel stage</li>
+      <li><strong>Sales Handoff:</strong> Auto-task for SDRs when threshold met</li>
+    </ul>
+
+    <h2>📈 Results (Estimates)</h2>
+    <ul>
+      <li>✔️ 10x increase in SQLs (from 5 to 55 in Q4)</li>
+      <li>📅 Sales cycle reduced from 12 to 5.5 days</li>
+      <li>📧 Email open rate: 44%, CTR: 9%</li>
+    </ul>
+
+    <h2>📨 Example Marketing Email</h2>
+    <div class="email-sample">
+Subject: Your Cleantech Growth Pod is Ready 🚀
+
+Hi {{firstName}},
+
+Thanks for signing up for Cleantech Growthlab! You're one step away from accessing your free Growth Pod — a custom-built GTM toolkit tailored for B2B cleantech companies like yours.
+
+✅ What’s inside:
+- Demand gen playbooks
+- Channel launch templates
+- ABM campaign workflows
+- Budget optimization tools
+
+Thousands of dollars in strategy — zero cost.
+
+👉 [Activate Your Growth Pod](#)
+
+Questions? Just hit reply. We're here to help you grow with less waste and more impact.
+
+To zero-waste growth,  
+Aswin  
+Freelance Marketing Strategist  
+Cleantech Growthlab
+    </div>
+
+    <a class="btn" href="index.html">← Back to Portfolio</a>
+  </div>
+</body>
+</html>
 
     <!-- Projects Section -->
     <section id="projects" class="py-20 px-4 bg-white text-gray-800">
