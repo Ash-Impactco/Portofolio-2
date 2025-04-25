@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -33,6 +33,15 @@
         </p>
       </div>
     </section>
+crm-cleantech-campaign.html
+<div class="project-card">
+  <h3>CRM Campaign – Cleantech Growthlab</h3>
+  <p>Lifecycle marketing campaign using HubSpot + Salesforce, with automation, lead scoring, and engagement workflows.</p>
+  <a href="crm-cleantech-campaign.html" target="_blank">View Project</a>
+</div>
+git add .
+git commit -m "Added CRM Campaign project"
+git push origin main
 
     <!-- Projects Section -->
     <section id="projects" class="py-20 px-4 bg-white text-gray-800">
