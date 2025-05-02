@@ -8,7 +8,7 @@
 </head>
 <body class="bg-white text-gray-800">
   <!-- Header -->
-  <header class="bg-green-600 text-white p-6">
+  <header class="bg-blue-600 text-white p-6">
     <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
       <div class="flex items-center space-x-4">
         <img src="![1000149931](https://github.com/user-attachments/assets/0574f5c1-6210-4fcd-af3b-11186ce7c553)
