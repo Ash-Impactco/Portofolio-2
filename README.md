@@ -13,7 +13,7 @@
       <div class="flex items-center space-x-4">
         <img src="https://raw.githubusercontent.com/Ash-Impactco/Portofolio-2/main/1746453347734.jpg"
              alt="Aswin Raj Sivaprakash"
-           style="width: 576px; height: auto;" class="rounded-full border-2 border-white"
+         class="w-24 h-24 rounded-full border-2 border-white"
         <div>
           <h1 class="text-4xl font-bold">Aswin Raj Sivaprakash</h1>
           <p class="text-lg mt-1">Clean Tech Marketer | Environmental Strategist | CRM Specialist</p>
