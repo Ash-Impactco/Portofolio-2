@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -11,7 +10,7 @@
   <header class="bg-green-600 text-white p-6">
     <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
       <div class="flex items-center space-x-4">      
-        <img src="https://raw.githubusercontent.com/Ash-Impactco/Portofolio-2/main/1746453347734.jpg" alt="Aswin Raj Sivaprakash" class="w-[576px] h-[576px] rounded-full border-2 border-white" />
+        <img src="https://raw.githubusercontent.com/Ash-Impactco/Portofolio-2/main/1746453347734.jpg" alt="Aswin Raj Sivaprakash" class="w-[180px] h-[180px] rounded-full border-2 border-white" />
         <div>
           <h1 class="text-4xl font-bold">Aswin Raj Sivaprakash</h1>
           <p class="text-lg mt-1">Clean Tech Marketer | Environmental Strategist | CRM Specialist</p>
@@ -25,27 +24,6 @@
       </div>
     </div>
   </header>
-
-  <!-- Main Content -->
-  <main class="container mx-auto px-4 py-10">
-    <!-- Hero -->
-    <section class="text-center px-4">
-      <h2 class="text-5xl font-bold text-gray-800 mb-4">Hey, I'm Aswin 👋</h2>
-      <p class="text-lg text-gray-600 max-w-xl mx-auto">
-        A passionate clean tech marketer and sustainability specialist with 5+ years driving CRM, digital strategy, and ESG communications across global markets.
-      </p>
-      <div class="flex justify-center gap-4 mt-6">
-        <a href="https://github.com/Ash-Impactco/Portofolio-2/blob/main/Aswin%20Resume%20.pdf" class="bg-green-600 text-white px-5 py-2 rounded-xl hover:bg-green-700 transition" download>
-          📄 Download Resume
-        </a>
-        <a href="https://linkedin.com/in/aswin-sivaprakash" target="_blank" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">
-          🔗 LinkedIn
-        </a>
-      </div>
-    </section>
-  </main>
-</body>
-</html>
 
     <!-- About -->
     <section id="about" class="py-16 px-4 bg-gray-100 text-gray-800">
