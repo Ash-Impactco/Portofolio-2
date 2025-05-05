@@ -38,7 +38,9 @@
         A passionate clean tech marketer and sustainability specialist with 5+ years driving CRM, digital strategy, and ESG communications across global markets.
       </p>
       <div class="flex justify-center gap-4 mt-6">
-        <a href="Resume - AR Sivaprakash.pdf" class="bg-green-600 text-white px-5 py-2 rounded-xl hover:bg-green-700 transition" download>📄 Download Resume</a>
+       <a href="Aswin Resume .pdf" class="bg-green-600 text-white px-5 py-2 rounded-xl hover:bg-green-700 transition" download>
+  📄 Download Resume
+</a>
         <a href="https://linkedin.com/in/aswin-sivaprakash" target="_blank" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">🔗 LinkedIn</a>
       </div>
     </section>
