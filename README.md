@@ -8,6 +8,9 @@
 </head>
 <body class="bg-white text-gray-800">
   <!-- Header -->!
+  <img src="[https://raw.githubusercontent.com/your-username/repo-name/main/assets/profile.jpg"](https://github.com/Ash-Impactco/Portofolio-2/blob/main/1746453347734.jpg) 
+     alt="Aswin Raj Sivaprakash" 
+     class="w-24 h-24 rounded-full border-2 border-white" />
 
   <header class="bg-green-600 text-white p-6">
     <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
