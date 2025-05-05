@@ -8,14 +8,13 @@
 </head>
 <body class="bg-white text-gray-800">
   <!-- Header -->!
-  <img src="(https://github.com/Ash-Impactco/Portofolio-2/blob/main/1746453347734.jpg)" 
-     alt="Aswin Raj Sivaprakash" 
-     class="w-24 h-24 rounded-full border-2 border-white" />
-
+  
   <header class="bg-green-600 text-white p-6">
     <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
       <div class="flex items-center space-x-4">
-        <img src[1746453148547](https://github.com/user-attachments/assets/1f72e34b-d256-4db3-a7d5-c6fbf2307879) alt="Aswin Raj Sivaprakash" class="w-24 h-24 rounded-full border-2 border-white" />
+       <img src="(https://github.com/Ash-Impactco/Portofolio-2/blob/main/1746453347734.jpg)" 
+     alt="Aswin Raj Sivaprakash" 
+     class="w-24 h-24 rounded-full border-2 border-white" />
         <div>
           <h1 class="text-4xl font-bold">Aswin Raj Sivaprakash</h1>
           <p class="text-lg mt-1">Clean Tech Marketer | Environmental Strategist | CRM Specialist</p>
