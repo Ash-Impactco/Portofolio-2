@@ -8,7 +8,7 @@
 </head>
 <body class="bg-white text-gray-800">
   <!-- Header -->!
-  <img src="[https://raw.githubusercontent.com/your-username/repo-name/main/assets/profile.jpg"](https://github.com/Ash-Impactco/Portofolio-2/blob/main/1746453347734.jpg) 
+  <img src="(https://github.com/Ash-Impactco/Portofolio-2/blob/main/1746453347734.jpg)" 
      alt="Aswin Raj Sivaprakash" 
      class="w-24 h-24 rounded-full border-2 border-white" />
 
