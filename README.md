@@ -11,8 +11,7 @@
   <header class="bg-green-600 text-white p-6">
     <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
       <div class="flex items-center space-x-4">      
-        <img src="https://raw.githubusercontent.com/Ash-Impactco/Portofolio-2/main/1746453347734.jpg" alt="Aswin Raj Sivaprakash"class="w-44 h-44 rounded-full border-2 border-white"
-
+        <img src="https://raw.githubusercontent.com/Ash-Impactco/Portofolio-2/main/1746453347734.jpg" alt="Aswin Raj Sivaprakash" class="w-44 h-44 rounded-full border-2 border-white" />
         <div>
           <h1 class="text-4xl font-bold">Aswin Raj Sivaprakash</h1>
           <p class="text-lg mt-1">Clean Tech Marketer | Environmental Strategist | CRM Specialist</p>
