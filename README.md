@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -24,6 +25,25 @@
       </div>
     </div>
   </header>
+
+  <!-- Main Content -->
+  <main class="container mx-auto px-4 py-10">
+    <!-- Hero -->
+    <section class="text-center px-4">
+      <h2 class="text-5xl font-bold text-gray-800 mb-4">Hey, I'm Aswin 👋</h2>
+      <p class="text-lg text-gray-600 max-w-xl mx-auto">
+        A passionate clean tech marketer and sustainability specialist with 5+ years driving CRM, digital strategy, and ESG communications across global markets.
+      </p>
+      <div class="flex justify-center gap-4 mt-6">
+        <!-- Resume link updated for direct download -->
+        <a href="https://github.com/Ash-Impactco/Portofolio-2/raw/main/Aswin%20Resume%20.pdf" class="bg-green-600 text-white px-5 py-2 rounded-xl hover:bg-green-700 transition" download>
+          📄 Download Resume
+        </a>
+        <a href="https://linkedin.com/in/aswin-sivaprakash" target="_blank" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">
+          🔗 LinkedIn
+        </a>
+      </div>
+    </section>
 
     <!-- About -->
     <section id="about" class="py-16 px-4 bg-gray-100 text-gray-800">
@@ -94,6 +114,7 @@
         </ul>
       </div>
     </section>
+
     <!-- CRM Campaign Summary Table -->
     <h4 class="text-xl font-semibold mb-4 text-center">CRM Campaign Summary</h4>
     <table class="table-auto w-full border-collapse border border-gray-300 text-sm">
@@ -191,51 +212,28 @@
     <!-- Certifications & Courses -->
     <section id="certifications" class="py-16 px-4 bg-white text-gray-800">
       <div class="max-w-3xl mx-auto">
-        <h2 class="text-3xl font-bold mb-4 text-center">Certifications & Courses</h2>
-        <ul class="list-disc pl-6 text-lg space-y-2">
-          <li>ISO 14001:2015 Lead Auditor (IRCA)</li>
-          <li>NEBOSH International General Certificate in Occupational Health & Safety</li>
-          <li>Health & Safety Practical Application</li>
-          <li>Management of International Health & Safety</li>
-          <li>Project Management by Google (Coursera)</li>
-          <li>Generative AI for Digital Marketers (LinkedIn)</li>
+        <h2 class="text-3xl font-bold mb-6 text-center">Certifications & Courses</h2>
+        <ul class="space-y-4">
+          <li><strong>Salesforce Marketing Cloud Certification</strong> (Feb 2023)</li>
+          <li><strong>Google Analytics Certification</strong> (Nov 2021)</li>
+          <li><strong>HubSpot CRM Certified</strong> (Oct 2021)</li>
+          <li><strong>LinkedIn Learning: Digital Marketing Strategy</strong> (Jul 2020)</li>
         </ul>
       </div>
-    </section>
-
-    <!-- Skills -->
-    <section id="skills" class="py-16 px-4 bg-gray-100 text-gray-800">
-      <div class="max-w-3xl mx-auto">
-        <h2 class="text-3xl font-bold mb-4 text-center">Skills</h2>
-        <ul class="list-disc pl-6 text-lg space-y-2">
-          <li>Sales & Marketing</li>
-          <li>Lead Generation</li>
-          <li>Cold Calling & Negotiation</li>
-          <li>Zendesk & Mailchimp</li>
-          <li>Kanban & Jira</li>
-          <li>Excel & Google Sheets</li>
-        </ul>
-      </div>
-    </section>
-
-    <!-- Contact CTA -->
-    <section id="contact" class="py-16 px-4 bg-white text-gray-800 text-center">
-      <h2 class="text-3xl font-bold mb-4">Let’s Connect</h2>
-      <p class="text-lg mb-4">Open to freelance, full-time, and mission-driven collaborations.</p>
-      <a href="mailto:aswinr63@gmail.com" class="inline-block bg-blue-600 text-white py-3 px-6 rounded-xl hover:bg-blue-700 transition">
-        ✉️ Email Me
-      </a>
     </section>
 
   </main>
 
-  <footer class="text-center text-sm text-gray-500 mt-12 p-4 border-t">
-    &copy; 2024 Aswin Raj Sivaprakash
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-white py-8 text-center">
+    <p>&copy; 2025 Aswin Raj Sivaprakash. All Rights Reserved.</p>
   </footer>
 
+  <!-- Toggle Function for Experience Details -->
   <script>
     function toggle(id) {
-      document.getElementById(id).classList.toggle('hidden');
+      const element = document.getElementById(id);
+      element.classList.toggle("hidden");
     }
   </script>
 </body>
