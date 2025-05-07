@@ -151,14 +151,46 @@ I blend market expertise and sustainability passion to craft high-impact marketi
 </section>
 
 <!-- Projects -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Geothermal Heat Grid Case Study – Leeuwarden</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-white text-gray-800">
+  <!-- Header -->
+  <header class="bg-green-600 text-white p-6">
+    <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
+      <div class="flex items-center space-x-4">
+        <img src="https://raw.githubusercontent.com/Ash-Impactco/Portofolio-2/main/1746453347734.jpg" alt="Aswin Raj Sivaprakash" class="w-44 h-44 rounded-full border-2 border-white" />
+        <div>
+          <h1 class="text-4xl font-bold">Aswin Raj Sivaprakash</h1>
+          <p class="text-lg mt-1">Clean Tech Marketer | Environmental Strategist | CRM Specialist</p>
+        </div>
+      </div>
+      <div class="mt-4 md:mt-0 text-right">
+        <p>📍 Porto, Portugal</p>
+        <p>📞 +351 938816822</p>
+        <p>✉️ <a href="mailto:aswinr63@gmail.com" class="underline">aswinr63@gmail.com</a></p>
+        <p>🔗 <a href="https://linkedin.com/in/aswin-sivaprakash" target="_blank" class="underline">linkedin.com/in/aswin-sivaprakash</a></p>
+      </div>
+    </div>
+  </header>
 <section id="projects" class="py-16 px-4 bg-gray-100 text-gray-800">
-<div class="max-w-5xl mx-auto">
-<h2 class="text-3xl font-bold mb-6 text-center">Projects</h2>
-<div class="space-y-8">
-<div class="bg-green-50 p-6 rounded-xl">
-<h3 class="text-xl font-semibold">Upcoming Geothermal Heat Grid Case Study – Leeuwarden, NL (Feb 2022 – Apr 2022)</h3>
-<p class="mt-2">Collected qualitative data from 100 respondents on geothermal integration using DESSIN-ESS. Findings published by <a href="https://www.omropfryslan.nl/nl/nieuws/1144457/internationale-studenten-duurzame-aanpak-in-fryslan-is-mogelijk" class="underline text-blue-600" target="_blank">Omrop</a>.</p>
-</div>
+  <!-- Project Details -->
+  <main class="container mx-auto px-4 py-10">
+    <section class="bg-green-50 p-6 rounded-xl">
+      <h2 class="text-3xl font-bold">Geothermal Heat Grid Case Study – Leeuwarden, NL</h2>
+      <p class="mt-2">This project involved collecting qualitative data from 100 respondents on geothermal integration using DESSIN-ESS. The findings were published by <a href="https://www.omropfryslan.nl/nl/nieuws/1144457/internationale-studenten-duurzame-aanpak-in-fryslan-is-mogelijk" class="underline text-blue-600" target="_blank">Omrop</a>.</p>
+      <p class="mt-4">Through this case study, we demonstrated the viability of geothermal systems as a renewable energy solution in the Leeuwarden region. The data helped establish a foundation for future green energy projects.</p>
+    </section>
+    <div class="mt-6 text-center">
+      <a href="index.html" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">Back to Portfolio</a>
+    </div>
+  </main>
+  
 <div class="bg-green-50 p-6 rounded-xl">
 <h3 class="text-xl font-semibold">Coral Bleaching Status – Andaman Islands, India (Dec 2017 – Feb 2018)</h3>
 <p class="mt-2">Identified 1°C SST increase causing symbiosis degradation. Assessed thermal stress via CBAS. Presented findings to ANET, Indian Wildlife Dept. & Coast Guard.</p>
