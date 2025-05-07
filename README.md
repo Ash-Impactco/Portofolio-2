@@ -151,27 +151,14 @@ I blend market expertise and sustainability passion to craft high-impact marketi
 </section>
 
 <!-- Projects -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Geothermal Heat Grid Case Study – Leeuwarden</title>
-  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-</head>
-
-  <!-- Project Details -->
-  <main class="container mx-auto px-4 py-10">
-    <section class="bg-green-50 p-6 rounded-xl">
-      <h2 class="text-3xl font-bold">Geothermal Heat Grid Case Study – Leeuwarden, NL</h2>
-      <p class="mt-2">This project involved collecting qualitative data from 100 respondents on geothermal integration using DESSIN-ESS. The findings were published by <a href="https://www.omropfryslan.nl/nl/nieuws/1144457/internationale-studenten-duurzame-aanpak-in-fryslan-is-mogelijk" class="underline text-blue-600" target="_blank">Omrop</a>.</p>
-      <p class="mt-4">Through this case study, we demonstrated the viability of geothermal systems as a renewable energy solution in the Leeuwarden region. The data helped establish a foundation for future green energy projects.</p>
-    </section>
-    <div class="mt-6 text-center">
-      <a href="index.html" class="bg-blue-600 text-white px-5 py-2 rounded-xl hover:bg-blue-700 transition">Back to Portfolio</a>
-    </div>
-  </main>
-  
+<section id="projects" class="py-16 px-4 bg-gray-100 text-gray-800">
+<div class="max-w-5xl mx-auto">
+<h2 class="text-3xl font-bold mb-6 text-center">Projects</h2>
+<div class="space-y-8">
+<div class="bg-green-50 p-6 rounded-xl">
+<h3 class="text-xl font-semibold">Upcoming Geothermal Heat Grid Case Study – Leeuwarden, NL (Feb 2022 – Apr 2022)</h3>
+<p class="mt-2">Collected qualitative data from 100 respondents on geothermal integration using DESSIN-ESS. Findings published by <a href="https://www.omropfryslan.nl/nl/nieuws/1144457/internationale-studenten-duurzame-aanpak-in-fryslan-is-mogelijk" class="underline text-blue-600" target="_blank">Omrop</a>.</p>
+</div>
 <div class="bg-green-50 p-6 rounded-xl">
 <h3 class="text-xl font-semibold">Coral Bleaching Status – Andaman Islands, India (Dec 2017 – Feb 2018)</h3>
 <p class="mt-2">Identified 1°C SST increase causing symbiosis degradation. Assessed thermal stress via CBAS. Presented findings to ANET, Indian Wildlife Dept. & Coast Guard.</p>
