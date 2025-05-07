@@ -171,44 +171,6 @@ I blend market expertise and sustainability passion to craft high-impact marketi
 </div>
 </section>
 
-<!-- CRM Campaign Details -->
-<section id="crm-cleantech" class="py-16 px-4 bg-green-50 text-gray-800">
-<div class="max-w-4xl mx-auto">
-<h2 class="text-3xl font-bold mb-4">CRM Campaign – Cleantech GrowthLab</h2>
-<p>Developed a multi-stage nurture campaign to convert clean tech leads:</p>
-<ul class="list-disc pl-6 mt-2">
-<li>Segments: SMEs, corporate sustainability teams, investors.</li>
-<li>Workflow: Welcome email → educational series → case study highlight → demo invite.</li>
-<li>Tools: HubSpot workflows, behavior scoring, dynamic content.</li>
-<li>Results: 10× SQL growth, 44% open rate, 8% demo-to-contract conversion.</li>
-</ul>
-</div>
-</section>
-<section id="crm-igaming" class="py-16 px-4 bg-yellow-50 text-gray-800">
-<div class="max-w-4xl mx-auto">
-<h2 class="text-3xl font-bold mb-4">CRM Campaign – iGaming Platforms</h2>
-<p>Reactivation and retention strategy across multiple markets:</p>
-<ul class="list-disc pl-6 mt-2">
-<li>Audience: Dormant players, VIP segments, new registrants.</li>
-<li>Channels: Email, in-app notifications, SMS.</li>
-<li>Sequence: Re-engagement drip → VIP loyalty boost → exclusive offers.</li>
-<li>Outcomes: +20% LTV, 25% reactivation rate of dormant users.</li>
-</ul>
-</div>
-</section>
-<section id="crm-chromo" class="py-16 px-4 bg-blue-50 text-gray-800">
-<div class="max-w-4xl mx-auto">
-<h2 class="text-3xl font-bold mb-4">CRM Campaign – National Chromatography Inco</h2>
-<p>Targeted outreach for chromatography equipment adoption:</p>
-<ul class="list-disc pl-6 mt-2">
-<li>Prospecting: Pharma R&D, QC labs, universities.</li>
-<li>Email series: Product intro → ROI-focused case studies → personalized demos.</li>
-<li>Automation: Salesforce Pardot, lead scoring, triggered follow-ups.</li>
-<li>Impact: 13% lead-to-opportunity conversion, \$35k in closed deals.</li>
-</ul>
-</div>
-</section>
-
 <!-- Certifications & Courses -->
 <section id="certifications" class="py-16 px-4 bg-white text-gray-800">
 <div class="max-w-3xl mx-auto">
