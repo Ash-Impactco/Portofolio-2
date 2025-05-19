@@ -73,10 +73,45 @@ I blend market expertise and sustainability passion to craft high-impact marketi
 </li>
 <li>
 <button onclick="toggle('exp2')" class="w-full text-left px-4 py-2 rounded bg-blue-500 text-white hover:bg-blue-600 transition">Customer Success & Marketing Specialist - Scores & Levels (Jun 2024 – Present)</button>
+<body>
+  <!-- Clickable company logo -->
+  <a href="https://www.linkedin.com/company/scoresandlevels/?originalSubdomain=pt" target="_blank">
+    <img src="assets/logo.png" alt="Company Logo" class="logo" />
+  </a>
+
+  <!-- Your professional experience section -->
+  <section id="experience">
+    <h2>Professional Experience</h2>
+    <!-- ... other content ... -->
+  </section>
+</body>
+
 <div id="exp2" class="hidden mt-2 ml-4">
 <ul class="list-disc pl-6">
-<li>Managed multi-channel campaigns, improving user retention by 25%.</li>
-<li>Developed onboarding flows in HubSpot, enhancing customer satisfaction by 20%.</li>
+<h3>Marketing Collaboration and Promotional Campaigns</h3>
+      <p><strong>June 2024 – Present</strong></p>
+      <ul>
+        <li>Collaborated with the marketing team to develop data-driven promotional strategies using HubSpot, leading to a <strong>25% increase in customer retention</strong> across all regions.</li>
+        <li>Executed bulk messaging campaigns targeting 10,000+ clients, driving a <strong>15% uplift in player engagement</strong> and a <strong>10% increase in deposits</strong>.</li>
+        <li>Oversaw player engagement and retention initiatives, contributing to a <strong>20% growth in customer lifetime value</strong> across Asian, African, and Brazilian markets.</li>
+      </ul>
+    </div>
+
+    <div class="experience-entry">
+      <h3>Customer Support and Bet Management</h3>
+      <ul>
+        <li>Handled over 100 customer inquiries daily via chat for iGaming platforms like <em>Bet365, Bet Barter, Aposta Real, and Sky247</em>, ensuring timely resolution of betting issues and account management.</li>
+        <li>Monitored and escalated complex bet disputes to RFBA, CRM, or OPS teams using 9 Wickets, achieving a <strong>95% resolution rate within 24 hours</strong>.</li>
+        <li>Assisted over 300 clients monthly with account registrations, deposits, and withdrawals, ensuring a seamless user experience across Asian, African, and Brazilian markets.</li>
+      </ul>
+    </div>
+
+    <div class="experience-entry">
+      <h3>VIP Customer Engagement and Telemarketing</h3>
+      <ul>
+        <li>Managed a portfolio of 150+ VIP customers, conducting telemarketing campaigns that resulted in a <strong>20% increase in high-value customer engagement</strong>.</li>
+        <li>Promoted new bonuses and offers, leading to the <strong>reactivation of 30% of dormant VIP accounts</strong> across targeted regions.</li>
+      </ul>
 </ul>
 </div>
 </li>
