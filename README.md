@@ -97,7 +97,6 @@ I blend market expertise and sustainability passion to craft high-impact marketi
       </ul>
     </div>
 
-    <div class="experience-entry">
       <h3>Customer Support and Bet Management</h3>
       <ul>
         <li>Handled over 100 customer inquiries daily via chat for iGaming platforms like <em>Bet365, Bet Barter, Aposta Real, and Sky247</em>, ensuring timely resolution of betting issues and account management.</li>
@@ -106,7 +105,6 @@ I blend market expertise and sustainability passion to craft high-impact marketi
       </ul>
     </div>
 
-    <div class="experience-entry">
       <h3>VIP Customer Engagement and Telemarketing</h3>
       <ul>
         <li>Managed a portfolio of 150+ VIP customers, conducting telemarketing campaigns that resulted in a <strong>20% increase in high-value customer engagement</strong>.</li>
